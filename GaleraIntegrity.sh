@@ -9,9 +9,9 @@
 #
 
 #############################################################################################
-#																							                                              #
-#					CHANGABLE VARS, ADJUST ACCOURDING YOUR CLUSTER						                      	#
-#																						                                              	#
+#									 		    #
+#			CHANGABLE VARS, ADJUST ACCOURDING YOUR CLUSTER	                    #
+#											    #
 #############################################################################################
 
 
@@ -23,9 +23,9 @@ sizecluster=3    # Size of your cluster, in this case i will use 3
 StatusReady="ON" # And Always should be ON
 
 #############################################################################################
-#																						                                              	#
-#								DONT CHANGE ANYTHING BELOW								                                 	#
-#																							                                              #
+#											    #
+#				DONT CHANGE ANYTHING BELOW              	            #
+#											    #
 #############################################################################################
 
 #Constant Vars
